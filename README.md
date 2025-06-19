@@ -13,6 +13,6 @@ The main screen, you can add the song title, artist, rating and comment. You hav
 ![image](https://github.com/user-attachments/assets/08c83cc3-e172-47fc-9617-6b790d35d506)
 ![image](https://github.com/user-attachments/assets/89522bf6-0537-4d75-a560-e7a415aea7b1)
 ![image](https://github.com/user-attachments/assets/735ded57-1615-47ec-852c-e1c55513767e)
-GitHub repository link
+GitHub repository link!
 https://github.com/st10486025/Playlist_manager_app.git
 
